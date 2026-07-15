@@ -1,0 +1,4 @@
+openai==1.14.0
+pydantic==2.6.3
+aiohttp==3.9.3
+asyncio==3.4.3
